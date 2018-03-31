@@ -1,7 +1,10 @@
 # rcmd_paper
 
-##深度学习在推荐中的应用
+
+## 深度学习在推荐中的应用
+
 [deep learning for rcmd](https://github.com/shmilysyq/rcmd_paper/blob/master/Deep%20Learning%20for%20Recommender%20Systems.pdf)
+
 
 ## embedding 系列
 

@@ -9,6 +9,10 @@
 
 ## embedding 系列
 
+word2vec  embedding鼻祖，必须要搞清楚呀，后续所有的embedding就是输入改一下。model还是语言模型。
+资料
+知乎[url](https://zhuanlan.zhihu.com/p/26306795)
+
 node2vec 
 
 [node2vec](https://github.com/shmilysyq/rcmd_paper/blob/master/embedding/node2vec.pdf)

@@ -14,6 +14,10 @@ word2vec  embedding鼻祖，必须要搞清楚呀，后续所有的embedding就�
 知乎[url](https://zhuanlan.zhihu.com/p/26306795)
 基于神经网络的词和文档语义向量表示方法研究 [url](http://licstar.net/archives/687)
 
+
+### network embedding系列
+awesome-network-embedding [url](https://github.com/chihming/awesome-network-embedding)
+
 node2vec 
 
 [node2vec](https://github.com/shmilysyq/rcmd_paper/blob/master/embedding/node2vec.pdf)

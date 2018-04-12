@@ -2,6 +2,12 @@
 
 [推荐资料传送门](https://github.com/shmilysyq/rcmd_paper/wiki/%E6%8E%A8%E8%8D%90%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99) 
 
+
+## CTR 问题
+
+CTR知乎专栏[url](https://zhuanlan.zhihu.com/p/31589565)
+
+
 ## 深度学习在推荐中的应用
 
 [deep learning for rcmd](https://github.com/shmilysyq/rcmd_paper/blob/master/Deep%20Learning%20for%20Recommender%20Systems.pdf)

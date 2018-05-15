@@ -30,8 +30,7 @@ node2vec
 
 alibaba graph embedding 17年，非对称网络的embedding
 
-[scalable graph embedding for Astmmetric Proximity](https://github.com/shmilysyq/rcmd_paper/blob/master/embedding/Scalable%20Graph%20Embedding%20for%20Asymmetric%20Proximity.pdf)
+[scalable graph embedding for Astmmetric Proximity](https://github.com/shmilysyq/rcmd_paper/blob/master/embedding/Scalable%20Graph%20Embedding%20for%20Asymmetric
 
-alibaba graph embedding 18年,在embedding的过程中加入了content信息， 解决新物品的冷启动问题。
-
-[Billion-scale Commodity Embedding for E-commerce Recommendation in Alibaba](https://github.com/shmilysyq/rcmd_paper/blob/master/embedding/billion-scaleEmbedding.pdf)
+## SLIM 系列
+[SLIM: Sparse LInear Methods for top-n recommender systems](https://blog.csdn.net/nihaomafb/article/details/53741813)

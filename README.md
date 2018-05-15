@@ -30,7 +30,8 @@ node2vec
 
 alibaba graph embedding 17年，非对称网络的embedding
 
-[scalable graph embedding for Astmmetric Proximity](https://github.com/shmilysyq/rcmd_paper/blob/master/embedding/Scalable%20Graph%20Embedding%20for%20Asymmetric
+[scalable graph embedding for Astmmetric Proximity](https://github.com/shmilysyq/rcmd_paper/blob/master/embedding/Scalable%20Graph%20Embedding%20for%20Asymmetric)
 
 ## SLIM 系列
 [SLIM: Sparse LInear Methods for top-n recommender systems](https://blog.csdn.net/nihaomafb/article/details/53741813)
+[Local Item-Item Models for Top-N Recommendation, Recsys, 2016](https://blog.csdn.net/weixin_39064571/article/details/78835939)

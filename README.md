@@ -34,4 +34,5 @@ alibaba graph embedding 17年，非对称网络的embedding
 
 ## SLIM 系列
 [SLIM: Sparse LInear Methods for top-n recommender systems](https://blog.csdn.net/nihaomafb/article/details/53741813)
+
 [Local Item-Item Models for Top-N Recommendation, Recsys, 2016](https://blog.csdn.net/weixin_39064571/article/details/78835939)

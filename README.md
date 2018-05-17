@@ -1,7 +1,7 @@
 # rcmd_paper
 
 [推荐资料传送门](https://github.com/shmilysyq/rcmd_paper/wiki/%E6%8E%A8%E8%8D%90%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99) 
-
+[入门paper] (http://blog.sina.com.cn/s/blog_5357c0af0102wz0b.html)
 
 ## CTR 问题
 

@@ -12,6 +12,7 @@ CTR知乎专栏[url](https://zhuanlan.zhihu.com/p/31589565)
 
 [deep learning for rcmd](https://github.com/shmilysyq/rcmd_paper/blob/master/Deep%20Learning%20for%20Recommender%20Systems.pdf)
 
+[Neural Factorization Machines  SIGIR '17](http://www.comp.nus.edu.sg/~xiangnan/papers/sigir17-nfm.pdf)
 
 ## embedding 系列
 

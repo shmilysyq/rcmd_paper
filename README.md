@@ -39,3 +39,16 @@ alibaba graph embedding 17年，非对称网络的embedding
 [SLIM: Sparse LInear Methods for top-n recommender systems](https://blog.csdn.net/nihaomafb/article/details/53741813)
 
 [Local Item-Item Models for Top-N Recommendation, Recsys, 2016](https://blog.csdn.net/weixin_39064571/article/details/78835939)
+
+## 知识图谱在推荐系统中的应用
+[url](https://mp.weixin.qq.com/s/QO34vyt3uBSKvnYSW0Kumg)
+- 依次学习模型
+DKN: Deep Knowledge-Aware Network for News Recommendation
+
+- 混合训练模型
+[Ripple Network: Propagating User Preferences
+on the Knowledge Graph for Recommender Systems](https://arxiv.org/pdf/1803.03467.pdf)
+Collaborative knowledge base embedding for recommender systems.
+
+- 交替学习模型
+MKR: A Multi-Task Learning Approach for Knowledge Graph Enhanced Recommendation.

@@ -14,6 +14,8 @@ CTR知乎专栏[url](https://zhuanlan.zhihu.com/p/31589565)
 
 [Neural Factorization Machines  SIGIR '17](http://www.comp.nus.edu.sg/~xiangnan/papers/sigir17-nfm.pdf)
 
+[Learning over Knowledge-Base Embeddings for Recommendation](https://arxiv.org/pdf/1803.06540.pdf)
+
 ## embedding 系列
 
 word2vec  embedding鼻祖，必须要搞清楚呀，后续所有的embedding就是输入改一下。model还是语言模型。

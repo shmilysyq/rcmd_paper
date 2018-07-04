@@ -18,6 +18,8 @@ CTR知乎专栏[url](https://zhuanlan.zhihu.com/p/31589565)
 
 Neural Collaborative Filtering [pdf](https://www.comp.nus.edu.sg/~xiangnan/papers/ncf.pdf) [git](https://github.com/hexiangnan/neural_collaborative_filtering)
 
+[Deep Learning for Matching in Search and Recommendation](https://www.comp.nus.edu.sg/~xiangnan/papers/www18-tutorial-deep-matching.pdf)
+
 ## embedding 系列
 
 word2vec  embedding鼻祖，必须要搞清楚呀，后续所有的embedding就是输入改一下。model还是语言模型。

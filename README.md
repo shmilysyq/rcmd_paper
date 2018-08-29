@@ -20,7 +20,9 @@ Neural Collaborative Filtering [pdf](https://www.comp.nus.edu.sg/~xiangnan/paper
 
 [Deep Learning for Matching in Search and Recommendation](https://www.comp.nus.edu.sg/~xiangnan/papers/www18-tutorial-deep-matching.pdf)
 
-## embedding 系列
+### attention model 系列
+  CTR知乎专栏[url](https://zhuanlan.zhihu.com/p/34103038)
+### embedding 系列
 
 word2vec  embedding鼻祖，必须要搞清楚呀，后续所有的embedding就是输入改一下。model还是语言模型。
 资料
@@ -28,7 +30,7 @@ word2vec  embedding鼻祖，必须要搞清楚呀，后续所有的embedding就�
 基于神经网络的词和文档语义向量表示方法研究 [url](http://licstar.net/archives/687)
 
 
-### network embedding系列
+#### network embedding系列
 awesome-network-embedding [url](https://github.com/chihming/awesome-network-embedding)
 
 node2vec 

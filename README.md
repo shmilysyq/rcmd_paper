@@ -20,7 +20,8 @@ Neural Collaborative Filtering [pdf](https://www.comp.nus.edu.sg/~xiangnan/paper
 
 [Deep Learning for Matching in Search and Recommendation](https://www.comp.nus.edu.sg/~xiangnan/papers/www18-tutorial-deep-matching.pdf)
  
-知乎专栏-DL在推荐中应用[url](https://zhuanlan.zhihu.com/p/38420154)
+知乎专栏-DL在推荐中应用[url](https://zhuanlan.zhihu.com/p/38420154)[url](https://zhuanlan.zhihu.com/p/37522266)
+
 
 ### attention model 系列
   CTR知乎专栏[url](https://zhuanlan.zhihu.com/p/34103038)

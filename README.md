@@ -22,6 +22,7 @@ Neural Collaborative Filtering [pdf](https://www.comp.nus.edu.sg/~xiangnan/paper
  
 知乎专栏-DL在推荐中应用[url](https://zhuanlan.zhihu.com/p/38420154)[url](https://zhuanlan.zhihu.com/p/37522266)
 
+[ATRank](https://github.com/jinze1994/ATRank)
 
 ### attention model 系列
   CTR知乎专栏[url](https://zhuanlan.zhihu.com/p/34103038)

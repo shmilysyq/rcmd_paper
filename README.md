@@ -46,6 +46,10 @@ alibaba graph embedding 17年，非对称网络的embedding
 
 [scalable graph embedding for Astmmetric Proximity](https://github.com/shmilysyq/rcmd_paper/blob/master/embedding/Scalable%20Graph%20Embedding%20for%20Asymmetric)
 
+京东的一篇相关商品关系学习
+A Path-constrained Framework for Discriminating Substitutable and Complementary Products in E-commerce
+
+
 ## SLIM 系列
 [SLIM: Sparse LInear Methods for top-n recommender systems](https://blog.csdn.net/nihaomafb/article/details/53741813)
 
@@ -63,3 +67,7 @@ Collaborative knowledge base embedding for recommender systems.
 
 - 交替学习模型
 MKR: A Multi-Task Learning Approach for Knowledge Graph Enhanced Recommendation.
+
+- 知识图谱在商品embbeding 中的应用
+2019 wwww [Jointly Learning Explainable Rules for Recommendation with
+Knowledge Graph](http://www.thuir.cn/group/~mzhang/publications/WWW2019-mwz.pdf) 

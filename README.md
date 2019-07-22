@@ -43,6 +43,7 @@ word2vec  embedding鼻祖，必须要搞清楚呀，后续所有的embedding就�
 资料
 知乎[url](https://zhuanlan.zhihu.com/p/26306795)
 基于神经网络的词和文档语义向量表示方法研究 [url](http://licstar.net/archives/687)
+skip gram model [url](https://zhuanlan.zhihu.com/p/27234078)
 
 
 #### network embedding系列

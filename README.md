@@ -8,12 +8,14 @@
 CTR知乎专栏[url](https://zhuanlan.zhihu.com/p/31589565)
 一些模型：
 Wide & Deep
+cross Deep Model
 DIN
 ESSM
 BST
 DSIN
 DLRM
 Exact-K
+
 
 
 ## 深度学习在推荐中的应用
